@@ -62,8 +62,12 @@ The app allows users to input a long URL and instantly get a short link, making 
 ---
 
 ## 📜 License
+This project is **not open source**.  
+All rights reserved © 2025 Aditya Singh.  
 
-This project is licensed under the MIT License.
+
 
 ---
+
+
 
